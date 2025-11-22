@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/',
+  basePath: 'https://lukeserafin.com',
   supportedLocales: {
   "en-US": ""
 },

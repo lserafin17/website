@@ -1,6 +1,6 @@
 {
   "routes": {
-    "/website/publications": {},
-    "/website/teaching": {}
+    "/publications": {},
+    "/teaching": {}
   }
 }

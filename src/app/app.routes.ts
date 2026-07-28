@@ -7,6 +7,11 @@ export const routes: Routes =
 [
   {
     path: 'publications',
+    component: AppComponent,
+    title: 'Luke Serafin'
+  },
+  {
+    path: 'publications',
     component: AppPublicationsComponent,
     title: 'Luke Serafin Publications'
   },

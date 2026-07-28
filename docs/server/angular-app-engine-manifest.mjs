@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/website',
+  basePath: '/',
   supportedLocales: {
   "en-US": ""
 },

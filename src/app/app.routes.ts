@@ -1,16 +1,16 @@
 import { Routes } from '@angular/router';
 import { AppComponent } from './app.component';
-import { AppHomeComponent } from './app.home/app.home.component';
 import { AppPublicationsComponent } from './app.publications/app.publications.component';
 import { AppTeachingComponent } from './app.teaching/app.teaching.component';
 
 export const routes: Routes =
 [
-  {
+  /* {
     path: '',
-    component: AppHomeComponent,
+    pathMatch: 'full',
+    component: AppComponent,
     title: 'Luke Serafin'
-  },
+  }, */
   {
     path: 'publications',
     component: AppPublicationsComponent,

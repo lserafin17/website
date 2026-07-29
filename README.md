@@ -52,6 +52,13 @@ For end-to-end (e2e) testing, run:
 ng e2e
 ```
 
+## Deployment
+
+- Buid project
+- In docs/browser, rename 'index.csr.html' to 'index.html'
+- Ensure the proper main-xxx.js, polyfill-xxx.js, and styles-xxx.js are committed to the repository
+- On GitHub Pages, run the Action 'Deploy static content to Pages'
+
 Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
 
 ## Additional Resources

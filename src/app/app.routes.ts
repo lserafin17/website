@@ -6,7 +6,7 @@ import { AppTeachingComponent } from './app.teaching/app.teaching.component';
 export const routes: Routes =
 [
   {
-    path: 'publications',
+    path: 'home',
     component: AppComponent,
     title: 'Luke Serafin'
   },
